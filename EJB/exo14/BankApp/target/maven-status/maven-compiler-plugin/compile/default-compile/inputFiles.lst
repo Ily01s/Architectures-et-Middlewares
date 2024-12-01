@@ -1,0 +1,6 @@
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/web/TransactionProducerServlet.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/ejb/TransactionProcessorBean.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/ejb/AccountServiceBean.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/web/JmsProducer.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/ejb/AccountServiceLocal.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo14/BankApp/src/main/java/web/AccountBalanceServlet.java

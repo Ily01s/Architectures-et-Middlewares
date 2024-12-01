@@ -1,0 +1,14 @@
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/AccountServiceLocal.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/web/AccountBalanceServlet.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/AccountManager.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/web/TransactionProducerServlet.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/AccountServiceBeanCMP.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/AccountManagerBMP.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/OperationMDB.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/web/TestCMPServlet.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/web/JmsProducer.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/Account.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/ObjectFactory.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/web/OperationProducerServlet.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/AccountServiceBean.java
+/home/hulk/Documents/M2/Architectures et Middlewares/EJB/exo15/BankApp/src/main/java/ejb/TransactionProcessorBean.java

@@ -1,0 +1,14 @@
+ejb/ObjectFactory.class
+ejb/Account.class
+web/TransactionProducerServlet.class
+web/TestCMPServlet.class
+ejb/AccountServiceLocal.class
+ejb/AccountManagerBMP.class
+ejb/OperationMDB.class
+ejb/AccountServiceBeanCMP.class
+ejb/TransactionProcessorBean.class
+web/OperationProducerServlet.class
+web/JmsProducer.class
+web/AccountBalanceServlet.class
+ejb/AccountManager.class
+ejb/AccountServiceBean.class

@@ -1,0 +1,6 @@
+JmsProducer.class
+ejb\AccountServiceBean.class
+ejb\TransactionProcessorBean.class
+web\AccountBalanceServlet.class
+ejb\AccountServiceLocal.class
+web\TransactionProducerServlet.class
